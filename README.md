@@ -105,9 +105,13 @@ If you use this code or find it useful in your research, please cite our paper:
 }
 ```
 
-The paper is available at:
+You may also cite the repository using the `CITATION.cff` file.
 
-[https://ieeexplore.ieee.org/document/9827181/](https://ieeexplore.ieee.org/document/9827181/)
+## Author
+
+**Ahmad Tanha**
+
+GitHub: https://github.com/ahmadtanhaa
 
 ## License
 
