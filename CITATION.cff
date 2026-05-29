@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code or find it useful in your research, please cite the associated sources."
+
+type: software
+title: "Probabilistic Shaping for Nonlinear Fiber Optic Channels"
+authors:
+  - family-names: "Tanha"
+    given-names: "Ahmad"
+year: 2026
+
+repository-code: "https://github.com/ahmadtanhaa/PSEGN"
+paper: "IEEE 30th International Conference on Electrical Engineering (ICEE), 2022"
+url: "https://ieeexplore.ieee.org/document/9827181/"
